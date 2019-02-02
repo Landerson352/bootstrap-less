@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-less",
+  "version": "4.2.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node run index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Landerson352/bootstrap-less.git"
+  },
+  "author": "Lincoln Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Landerson352/bootstrap-less/issues"
+  },
+  "homepage": "https://github.com/Landerson352/bootstrap-less#readme",
+  "dependencies": {
+    "bootstrap": "4.2.1"
+  }
+}
