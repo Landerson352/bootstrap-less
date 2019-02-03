@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Landerson352/bootstrap-less#readme",
   "dependencies": {
-    "bootstrap": "4.2.1"
+    "bootstrap": "4.2.1",
+    "directory-tree": "^2.2.1",
+    "fs-extra": "^7.0.1",
+    "lodash": "^4.17.11"
   }
 }
